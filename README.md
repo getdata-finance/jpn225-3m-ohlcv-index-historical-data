@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `JPN225_3m.csv` (18,565 rows, `2026-07-07` -> `2026-09-02`, 1.25 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/jpn225)** — **1,828,889** `3m` rows (full `1m`: 5,192,657), **11 timeframes**, `2008-09-01` -> `2026-09-02`.
+> **Sample on GitHub** · `JPN225_3m.csv` (18,480 rows, `2026-07-07` -> `2026-09-02`, 1.25 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/jpn225)** — **1,828,889** `3m` rows (full `1m`: 4,718,919), **11 timeframes**, `2008-09-01` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Nikkei 225 · Index | Nikkei 225 · Index |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,565 | **1,828,889** |
+| 3m rows | 18,480 | **1,828,889** |
 | Size | 1.25 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/jpn225) |
 | Period | `2026-07-07` -> `2026-09-02` | `2008-09-01` -> `2026-09-02` |
 | File | `JPN225_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/jpn225) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`JPN225_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T10:48:00+00:00 | 68411.96 | 68431.48 | 68361.96 | 68401.48 | 169 |
-| 2026-07-07T10:51:00+00:00 | 68401.48 | 68401.48 | 68351.97 | 68361.97 | 177 |
-| 2026-07-07T10:54:00+00:00 | 68361.97 | 68416.47 | 68361.96 | 68376.98 | 134 |
-| 2026-07-07T10:57:00+00:00 | 68376.98 | 68441.48 | 68376.97 | 68441.48 | 157 |
-| 2026-07-07T11:00:00+00:00 | 68441.48 | 68446.48 | 68321.96 | 68331.47 | 340 |
+| 2026-07-07T15:03:00+00:00 | 67646.47 | 67731.46 | 67626.98 | 67651.47 | 356 |
+| 2026-07-07T15:06:00+00:00 | 67651.47 | 67746.46 | 67636.97 | 67691.97 | 435 |
+| 2026-07-07T15:09:00+00:00 | 67691.97 | 67766.98 | 67666.96 | 67726.97 | 530 |
+| 2026-07-07T15:12:00+00:00 | 67726.97 | 67786.48 | 67666.97 | 67666.97 | 471 |
+| 2026-07-07T15:15:00+00:00 | 67666.97 | 67671.96 | 67556.97 | 67576.98 | 368 |
 
 **Last rows**
 
